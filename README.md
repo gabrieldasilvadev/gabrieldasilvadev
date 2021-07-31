@@ -1,8 +1,9 @@
-## Hello World!, I am Gabriel da Silva  👋
+# Hello World!, I am Gabriel da Silva  👋
 
 
 - 🏫 I am a student at PROA Institute 💙 ...
 - 📚 Studying java web development ...
+- 🧑 I am 18 years of age...
 - 😄 Pronoun: he/him ...
 - 🌎 São Paulo - SP, Brazil ...
     
@@ -22,11 +23,11 @@
     
 </div>
   
-  ##
+  ---
   
 <div>
   
-  ### • Find me at 📳
+  ## • Find me at 📳
   
   <a href="https://www.linkedin.com/in/gabriel-silva-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.twitch.tv/gbrzindev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
