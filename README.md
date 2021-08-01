@@ -19,7 +19,7 @@
   <img align="center" alt="Gbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gbr-Xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
   <img align="center" alt="Gbr-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="Gbr-gif" height="130" width="130" src="https://cdn.discordapp.com/attachments/739246116989698059/871147749733695508/hello-gif.gif">
+  <img align="right" alt="Gbr-gif" height="130" width="130" src="https://cdn.discordapp.com/attachments/739246116989698059/871247773117349958/hello-gif.gif">
     
 </div>
   
