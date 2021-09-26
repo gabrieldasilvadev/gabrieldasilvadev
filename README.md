@@ -21,7 +21,7 @@
   <img align="center" alt="Gbr-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Gbr-SASS" height="30" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Gbr-React" height="30" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Gbr-Jquery" height="30" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Gbr-Jquery" height="30" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
   <img align="right" alt="Gbr-gif" height="130" width="130" src="https://cdn.discordapp.com/attachments/739246116989698059/871247773117349958/hello-gif.gif">
     
 </div>
