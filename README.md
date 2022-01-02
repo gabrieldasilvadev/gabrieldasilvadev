@@ -33,7 +33,7 @@
 <div>
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrieldasilvadev&show_icons=true&theme=tokyonight"/>
 
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&hide=php)](https://github.com/anuraghazra/github-readme-stats"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldasilvadev&hide=css,shell,php&layout=compact&langs_count=7&theme=tokyonight"/>
     
 </div>
 
