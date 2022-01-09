@@ -1,4 +1,6 @@
-## Hello World!, I am {Gabriel da Silva}!  👋
+<!-- ## Hello World!, I am {Gabriel da Silva}! 👋 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=6FA4FC&width=350&height=50&lines=Hello+World!,+I'am+Gabriel+👋+...;%f0%9f%92%bb)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gabriel">
 
