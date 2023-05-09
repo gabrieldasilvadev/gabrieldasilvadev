@@ -24,10 +24,7 @@
 
 ## ⭐ My GitHub account information
 <div>
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrieldasilvadev&show_icons=true&theme=tokyonight"/>
-
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldasilvadev&hide=css,shell,php,javascript,html&layout=compact&langs_count=7&theme=tokyonight"/>
-    
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrieldasilvadev&show_icons=true&theme=tokyonight"/>    
 </div>
 
 ----
