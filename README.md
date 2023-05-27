@@ -21,12 +21,3 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/></code>
 
 ----
-
-## ⭐ My GitHub account information
-<div>
-
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrieldasilvadev&show_icons=true&theme=tokyonight"/>  
-   
-</div>
-
-----
