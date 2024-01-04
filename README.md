@@ -1,2 +1,2 @@
-- Software Engineering at C6 Bank
+- Software Engineering
 - São Paulo - SP, Brazil
