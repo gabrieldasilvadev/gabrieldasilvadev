@@ -13,4 +13,4 @@ Se você também é apaixonado por desenvolvimento de software, adoraria trocar 
 ## Contato
 
 - 📧 Email: gabrieldasilvadev@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/gabriel--da-silva)https://www.linkedin.com/in/gabriel--da-silva
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel--da-silva
