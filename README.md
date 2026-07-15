@@ -1,14 +1,10 @@
 ## Sobre Mim
 
-Olá, meu nome é Gabriel, podem me chamar de Gabs, sou um desenvolvedor focado em backend. Minhas principais linguagens de programação são Java e Kotlin. Sou apaixonado por criar soluções eficientes e escaláveis para problemas de software, e estou sempre buscando aprimorar minhas habilidades de programação.
-
-Tenho experiência em desenvolvimento de aplicativos e sistemas que envolvem Java e Kotlin, e estou constantemente aprendendo e explorando novas tecnologias para expandir meu conhecimento. Além disso, sou entusiasta por desafios de programação e resolução de problemas complexos.
-
-Se você também é apaixonado por desenvolvimento de software, adoraria trocar ideias e colaborar em projetos interessantes. Não hesite em entrar em contato comigo! 😊.
+Resoolvo problemas e nao estou falando de codigo, isso eh facil.
 
 ## Linguagens e Tecnologias
 
-- Consigo me adaptar bem a qualquer linguagem. Tenho maior dominio em Java e Kotlin.
+- Isso ainda importa?
 
 ## Contato
 
